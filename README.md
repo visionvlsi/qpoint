@@ -1,3 +1,12 @@
 # qpoint
 
-https://docs.google.com/presentation/d/1YiX2G27s9eitk9VzqPqb30VYBRACqtXXX7RhNZsnk-s/edit?usp=sharing
+2nd Phase material 
+
+1. https://drive.google.com/drive/folders/1aoK9LK5Y0pZfbco7kHn6BH6fdykDBh28?usp=sharing
+
+
+2. https://www.allaboutcircuits.com/technical-articles/multiplication-examples-using-the-fixed-point-representation/
+
+3. https://www.pathpartnertech.com/representing-decimal-data-in-q-format/
+
+4. https://sestevenson.wordpress.com/fixed-point-multiplication/
