@@ -13,6 +13,12 @@
 
 4. https://sestevenson.wordpress.com/fixed-point-multiplication/
 
-Important :
+<h4> Important : </h4>
 
 https://github.com/visionvlsi/be_design_using_openlane/tree/main/BE
+
+<h4> Backend design theory </h4>
+
+1. https://paginas.fe.up.pt/~ee07306/wp-content/uploads/2013/03/desing_flow_LuisGomes_v1.pdf
+
+2. https://www.ece.ucdavis.edu/~bbaas/116/notes/Handout.std.cell.design.pdf
